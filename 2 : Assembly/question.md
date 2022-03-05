@@ -1,0 +1,1 @@
+Write valid C code that could have compiled into this assembly (i.e., write a C definition of function f), given the global variable declarations “extern unsigned a, b;.” Your C code should compile without warnings. REMINDER: You are not permitted to run a C compiler, except for the C compiler that is your brain.
